@@ -5,6 +5,7 @@ public class sf {
     }
     
     public void ssadf(){
+    public void ssddddadf(){
 
     }
 
@@ -12,6 +13,7 @@ public class sf {
 
     }
     public void adfc(){
+    public void adddfc(){
 
     }
 }
