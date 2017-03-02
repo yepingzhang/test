@@ -1,5 +1,5 @@
 
 public class Tst {
 
-	private  String absssb;
+	private  String absxxxssb;
 }
